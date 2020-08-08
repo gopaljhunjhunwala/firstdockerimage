@@ -1,0 +1,5 @@
+docker run --rm -it openjdk:8-jdk-alpine sh
+
+
+docker run --rm -it -v /home/shared_volume_folder/:/home/firstproject openjdk:8-jdk-alpine sh
+
