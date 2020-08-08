@@ -1,0 +1,15 @@
+git init
+
+git add .
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+git commit -m "First docker build files"
+
+git remote add origin https://github.com/gopaljhunjhunwala/firstdockerimage.git
+
+git push -f origin master
+
+
