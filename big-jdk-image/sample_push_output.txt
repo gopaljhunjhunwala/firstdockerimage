@@ -1,0 +1,9 @@
+The push refers to repository [docker.io/gopaljhunjhunwala/sampleserverbuildwithapp]
+44ad67fa0748: Pushed 
+ceaf9e1ebef5: Mounted from library/openjdk 
+9b9b7f3d56a0: Mounted from gopaljhunjhunwala/sampleserverapponly 
+f1b5933fe4b5: Mounted from gopaljhunjhunwala/sampleserverapponly 
+latest: digest: sha256:8be1d1dbdcec2890412d0bda420005e303789443d064a22944c009ff8ff5a3e7 size: 1155
+
+
+

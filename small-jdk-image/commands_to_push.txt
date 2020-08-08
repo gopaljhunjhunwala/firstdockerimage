@@ -1,0 +1,4 @@
+docker images
+docker login
+docker tag 5d3061887dac  gopaljhunjhunwala/sampleserverapponly
+docker push  gopaljhunjhunwala/sampleserverapponly
